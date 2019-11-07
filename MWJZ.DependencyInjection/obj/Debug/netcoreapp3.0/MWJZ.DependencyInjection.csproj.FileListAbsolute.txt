@@ -1,8 +1,0 @@
-D:\Code\NET\MWJZ.DependencyInjection\MWJZ.DependencyInjection\bin\Debug\netcoreapp3.0\MWJZ.DependencyInjection.deps.json
-D:\Code\NET\MWJZ.DependencyInjection\MWJZ.DependencyInjection\bin\Debug\netcoreapp3.0\MWJZ.DependencyInjection.dll
-D:\Code\NET\MWJZ.DependencyInjection\MWJZ.DependencyInjection\bin\Debug\netcoreapp3.0\MWJZ.DependencyInjection.pdb
-D:\Code\NET\MWJZ.DependencyInjection\MWJZ.DependencyInjection\obj\Debug\netcoreapp3.0\MWJZ.DependencyInjection.csprojAssemblyReference.cache
-D:\Code\NET\MWJZ.DependencyInjection\MWJZ.DependencyInjection\obj\Debug\netcoreapp3.0\MWJZ.DependencyInjection.AssemblyInfoInputs.cache
-D:\Code\NET\MWJZ.DependencyInjection\MWJZ.DependencyInjection\obj\Debug\netcoreapp3.0\MWJZ.DependencyInjection.AssemblyInfo.cs
-D:\Code\NET\MWJZ.DependencyInjection\MWJZ.DependencyInjection\obj\Debug\netcoreapp3.0\MWJZ.DependencyInjection.dll
-D:\Code\NET\MWJZ.DependencyInjection\MWJZ.DependencyInjection\obj\Debug\netcoreapp3.0\MWJZ.DependencyInjection.pdb
