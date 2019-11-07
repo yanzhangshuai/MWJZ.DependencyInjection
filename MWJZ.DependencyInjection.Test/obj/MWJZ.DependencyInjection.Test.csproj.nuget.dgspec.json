@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Code\\NET\\MWJZ.DependencyInjection\\MWJZ.DependencyInjection.Test\\MWJZ.DependencyInjection.Test.csproj": {}
+  },
+  "projects": {
+    "D:\\Code\\NET\\MWJZ.DependencyInjection\\MWJZ.DependencyInjection.Test\\MWJZ.DependencyInjection.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Code\\NET\\MWJZ.DependencyInjection\\MWJZ.DependencyInjection.Test\\MWJZ.DependencyInjection.Test.csproj",
+        "projectName": "MWJZ.DependencyInjection.Test",
+        "projectPath": "D:\\Code\\NET\\MWJZ.DependencyInjection\\MWJZ.DependencyInjection.Test\\MWJZ.DependencyInjection.Test.csproj",
+        "packagesPath": "C:\\Users\\mayn\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\NET\\MWJZ.DependencyInjection\\MWJZ.DependencyInjection.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mayn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "D:\\Code\\NET\\MWJZ.DependencyInjection\\MWJZ.DependencyInjection\\MWJZ.DependencyInjection.csproj": {
+                "projectPath": "D:\\Code\\NET\\MWJZ.DependencyInjection\\MWJZ.DependencyInjection\\MWJZ.DependencyInjection.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[3.1.0-preview2.19525.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Code\\NET\\MWJZ.DependencyInjection\\MWJZ.DependencyInjection\\MWJZ.DependencyInjection.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Code\\NET\\MWJZ.DependencyInjection\\MWJZ.DependencyInjection\\MWJZ.DependencyInjection.csproj",
+        "projectName": "MWJZ.DependencyInjection",
+        "projectPath": "D:\\Code\\NET\\MWJZ.DependencyInjection\\MWJZ.DependencyInjection\\MWJZ.DependencyInjection.csproj",
+        "packagesPath": "C:\\Users\\mayn\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\NET\\MWJZ.DependencyInjection\\MWJZ.DependencyInjection\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mayn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.0-preview2.19525.4, )"
+            },
+            "Microsoft.Extensions.DependencyModel": {
+              "target": "Package",
+              "version": "[3.1.0-preview2.19525.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
